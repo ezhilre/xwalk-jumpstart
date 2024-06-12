@@ -1,6 +1,6 @@
 {
   "mappings": [
-    "/content/aem-boilerplate/:/",
-    "/content/aem-boilerplate/configuration:/.helix/config.json"
+    "/content/ezhilarasur-aem-xwalk-jumpstart/:/",
+    "/content/ezhilarasur-aem-xwalk-jumpstart/configuration:/.helix/config.json"
   ]
 }
